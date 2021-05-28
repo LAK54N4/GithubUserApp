@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="logo_github">logo github</string>
+    <string name="github_user">GitHub Users</string>
+    <string name="loading">Sedang memuat …</string>
+    <string name="you_can_search_github_user">
+Anda dapat mencari pengguna github</string>
+    <string name="search_hint">Masukkan data</string>
+    <string name="insert_username">Masukkan Username</string>
+    <string name="search">Cari</string>
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="_100">100</string>
+    <string name="repository">Repository</string>
+    <string name="fab">fab</string>
+    <string name="settings">Ubah Pengaturan Bahasa</string>
+    <string name="favorite_user">Pengguna Favorit</string>
+    <string name="key_reminder">Pengingat</string>
+    <string name="key_language">Bahasa</string>
+    <string name="reminder">Pengingat</string>
+    <string name="alarm_time">Waktu Alarm</string>
+    <string name="item_settings">Pengaturan</string>
+</resources>
